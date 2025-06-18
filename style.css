@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    margin: 0;
+    padding: 0;
+    color: #2e7d32;
+}
+
+header {
+    background-color: #43a047;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.direito {
+    margin-bottom: 2rem;
+    background-color: #c8e6c9;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.direito img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #43a047;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+}
